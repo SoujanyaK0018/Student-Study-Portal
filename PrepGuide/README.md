@@ -1,4 +1,4 @@
-# PrepGenius
+# PrepGuide
 
 A Django-based web application designed to help students manage their studies effectively. The Student Study Portal includes features like user authentication, note-taking, homework management,mock interviews,cs fundamentals,Dsa resources and external search capabilities.
 
