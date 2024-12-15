@@ -8,11 +8,11 @@ The Student Study Portal is designed to help students organize their study mater
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone 
+    git clone https://github.com/neerajkumar1118/Studentstudyportal
     ```
 2. Navigate to the project directory:
     ```sh
-    cd PrepGenius
+    cd PrepGuide
     ```
 3. Create and activate a virtual environment:
     ```sh
@@ -46,6 +46,6 @@ The Student Study Portal is designed to help students organize their study mater
 
 
 ## Contact
- Shashank Reddy Adama - [neerajnithin55@gmail.com](mailto:your-email@example.com)
+ Neeraj Kumar K - [neerajnithin55@gmail.com](mailto:your-email@example.com)
 
 
